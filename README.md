@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Penetration Testing & Bug Bounty Hunting<br>👯 I’m looking to collaborate on Cybersecurity Projects & Open Source Tools<br>🤝 I’m looking for help with Cloud Security & Advanced Exploitation Techniques<br>🌱 I’m currently learning IAM, Azure Entra ID, and Security Architecture<br>💬 Ask me about Ethical Hacking, Web Security, Linux, and CTFs<br>⚡ Fun fact: Top 1% on TryHackMe and an active CTF player.
+🔭 Working on Azure, AWS, IAM & IoT Firmware Projects.
+👯 Open to Cybersecurity & Open Source Collaborations.
+🤝 Seeking to learn Cloud Security & Identity Security.
+🌱 Learning Azure Entra ID, AWS Security & Security Architecture.
+💬 Ask me about Ethical Hacking, Linux, Web Security & CTFs.
+⚡ Top 1% on TryHackMe and active CTF player.
 
 
 ## 🌐 Socials:
