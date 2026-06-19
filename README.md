@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 Working on Azure, AWS, IAM & IoT Firmware Projects.
-👯 Open to Cybersecurity & Open Source Collaborations.
-🤝 Seeking to learn Cloud Security & Identity Security.
-🌱 Learning Azure Entra ID, AWS Security & Security Architecture.
-💬 Ask me about Ethical Hacking, Linux, Web Security & CTFs.
-⚡ Top 1% on TryHackMe and active CTF player.
+🔭 Working on Azure, AWS, IAM & IoT Firmware Projects.<br>
+👯 Open to Cybersecurity & Open Source Collaborations.<br>
+🤝 Seeking to learn Cloud Security & Identity Security.<br>
+🌱 Learning Azure Entra ID, AWS Security & Security Architecture.<br>
+💬 Ask me about Ethical Hacking, Linux, Web Security & CTFs.<br>
+⚡ Top 1% on TryHackMe and active CTF player.<br>
 
 
 ## 🌐 Socials:
